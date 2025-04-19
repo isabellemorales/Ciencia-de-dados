@@ -1,4 +1,6 @@
 📊 Aula 02 - Análise dos Dados e Agrupamentos (Python | Google Colab)
+
+
 Este notebook foi desenvolvido durante a Aula 02 da disciplina, com foco na análise exploratória de dados (EDA) e técnicas de agrupamento (clustering). Utilizamos o Google Colab para execução dos códigos em Python, facilitando o ambiente colaborativo e a visualização interativa dos dados.
 
 ✔️ Conteúdos abordados:

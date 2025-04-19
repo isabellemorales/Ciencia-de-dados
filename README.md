@@ -1,3 +1,29 @@
+📘 Aula 01 – Introdução à Ciência de Dados | Google Colab (Python)
+
+Este notebook foi desenvolvido como parte da Aula 01, com o objetivo de introduzir os conceitos iniciais da Ciência de Dados utilizando a linguagem Python no ambiente Google Colab.
+
+🎯 Objetivos da aula:
+- Compreender o que é Ciência de Dados e sua aplicação no mercado;
+- Conhecer o fluxo básico de um projeto de dados;
+- Iniciar a manipulação de dados com Python;
+- Explorar conjuntos de dados com ferramentas de análise descritiva.
+
+🛠️ Ferramentas e bibliotecas utilizadas:
+- Google Colab
+- Python 
+- pandas (leitura e manipulação de dados)
+- numpy (operações matemáticas básicas)
+- matplotlib.pyplot e seaborn (visualizações gráficas)
+
+📌 Tópicos abordados:
+- Introdução ao ambiente Colab e primeiros comandos em Python;
+- Leitura de arquivos .csv;
+- Visualização e interpretação de dados com .head(), .tail(), .info() e .describe();
+- Limpeza inicial de dados: remoção de valores nulos, substituições e formatações;
+- Criação de gráficos básicos para análise visual dos dados.
+
+
+
 📊 Aula 02 - Análise dos Dados e Agrupamentos (Python | Google Colab)
 
 
